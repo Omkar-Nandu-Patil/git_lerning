@@ -1,3 +1,3 @@
-import sys
+omkarimport sys
  
 print(sys.prefix)
